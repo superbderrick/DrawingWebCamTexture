@@ -15,4 +15,24 @@ public class ButtonClick : MonoBehaviour
     {
         
     }
+
+    public void Test()
+    {
+        Debug.Log("Test");
+    }
+    
+    public void Test1()
+    {
+        Debug.Log("Test1");
+    }
+    
+    public void Test2()
+    {
+        Debug.Log("Test2");
+    }
+    
+    public void Test3()
+    {
+        Debug.Log("Test3");
+    }
 }
