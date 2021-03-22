@@ -4,7 +4,9 @@
     <list default="true" id="803ffa46-7cd8-4303-bd37-a4b45ef6c525" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NativeGallery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NativeGallery/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ButtonClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ButtonClick.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor/NGPostProcessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor/NGPostProcessBuild.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +17,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor/NGPostProcessBuild.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ButtonClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/NativeGallery.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/ButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor/NGPostProcessBuild.cs" />
       </list>
     </option>
   </component>
@@ -45,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616410827210</updated>
-      <workItem from="1616410838464" duration="171000" />
+      <workItem from="1616410838464" duration="1052000" />
     </task>
     <servers />
   </component>
@@ -54,5 +59,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1616411927397">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="505" y="239" width="670" height="676" key="search.everywhere.popup/-1136.-1057.1920.1057/784.-1057.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1616411927397" />
   </component>
 </project>

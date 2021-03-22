@@ -10,7 +10,7 @@ namespace NativeGalleryNamespace
 {
 	public class NGPostProcessBuild
 	{
-		private const bool ENABLED = true;
+		private const bool ENABLED = false;
 
 		private const string PHOTO_LIBRARY_USAGE_DESCRIPTION = "The app requires access to Photos to interact with it.";
 		private const string PHOTO_LIBRARY_ADDITIONS_USAGE_DESCRIPTION = "The app requires access to Photos to save media to it.";
