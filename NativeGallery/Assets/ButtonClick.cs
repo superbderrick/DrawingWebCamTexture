@@ -45,7 +45,7 @@ public class ButtonClick : MonoBehaviour
     public void Test()
     {
         Debug.Log("Test");
-        TakeScreenshotAndSave();
+        StartCoroutine( TakeScreenshotAndSave() );
     }
     
     public void Test1()
